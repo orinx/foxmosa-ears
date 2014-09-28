@@ -1,4 +1,8 @@
-foxmosa-ears
+[Foxmosa](http://moztw.org/foxmosa) Ears
 ============
 
-This is offline project, make you own foxmosa ears :)
+## Who's Foxmosa
+
+## What's this about
+
+## Make your own Foxmosa ears
