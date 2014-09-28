@@ -1,8 +1,5 @@
-[Foxmosa](http://moztw.org/foxmosa) Ears
-============
-
 ## Who's Foxmosa & License
-Foxmosa is Mozilla Taiwan Community ([MozTW](http://moztw.org))'s mascot. The free use of images and any content of **Foxmosa is licensed under CC: by-nc-sa 3.0 tw Attribution-Noncomercial-ShareAlike.** You may do any remix of her, while: 
+[Foxmosa](http://moztw.org/foxmosa) is Mozilla Taiwan Community ([MozTW](http://moztw.org))'s mascot. The free use of images and any content of **Foxmosa is licensed under CC: by-nc-sa 3.0 tw Attribution-Noncomercial-ShareAlike.** You may do any remix of her, while: 
 
 1. The work must contain the url 'moztw.org'
 2. The work must be released in the same license.
