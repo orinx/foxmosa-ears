@@ -1,4 +1,4 @@
-#[Foxmosa](http://moztw.org/foxmosa) Ears
+[Foxmosa](http://moztw.org/foxmosa) Ears
 ============
 
 ## Who's Foxmosa & License
